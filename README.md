@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard-
-I developed a comprehensive project in Power BI, creating dashboard and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Krishna-Store-Data-Analysis(Interactive Dashboard Creation Using Power BI)
+
+## Project Objective
+Owner of Krishna Store wants us to help them create a dashboard to track and analyze their online sales across India.
+

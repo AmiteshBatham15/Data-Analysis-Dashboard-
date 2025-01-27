@@ -33,38 +33,38 @@ Owner of Krishna Store wants us to help them create a dashboard to track and ana
 
 ## Project Insight
 1. Total Sales Performance:
-      o Total sales amount is 438K, with 6K items sold.
-      o The total profit generated is 37K, with an average order value (AOV) of
+      - Total sales amount is 438K, with 6K items sold.
+      - The total profit generated is 37K, with an average order value (AOV) of
         121K.
 2. Sales by State:
-      o Maharashtra contributes the highest revenue, followed by Madhya
+      - Maharashtra contributes the highest revenue, followed by Madhya
         Pradesh and Uttar Pradesh.
-      o Delhi has the lowest contribution to the overall sales.
+      - Delhi has the lowest contribution to the overall sales.
 3. Sales by Category:
-      o Clothing dominates the quantity sold, contributing 63% of the total
+      - Clothing dominates the quantity sold, contributing 63% of the total
         sales volume.
-      o Electronics contribute 21%, and Furniture contributes 17%.
+      - Electronics contribute 21%, and Furniture contributes 17%.
 4. Profit Trends by Month:
-      o High profits were observed in January and December, indicating
+      - High profits were observed in January and December, indicating
         potential seasonal demand.
-      o Losses occurred in May and August, suggesting underperformance
+      - Losses occurred in May and August, suggesting underperformance
         during these months.
 5. Top Customers:
-      o Hanamesh is the highest contributing customer, followed by Madhav
+      - Hanamesh is the highest contributing customer, followed by Madhav
         and Madan Mohan.
-      o Shiva has the lowest contribution among the top customers.
+      - Shiva has the lowest contribution among the top customers.
 6. Payment Method Usage:
-      o Cash on Delivery (COD) is the most preferred payment method,
+      - Cash on Delivery (COD) is the most preferred payment method,
         accounting for 44% of sales.
-      o UPI contributes 21%, while Debit Cards and EMI contribute 13% and
+      - UPI contributes 21%, while Debit Cards and EMI contribute 13% and
         10%, respectively.
 7. Profit by Sub-Category:
-      o Printers generate the highest profit among all sub-categories.
-      o Bookcases and Sarees follow, while Accessories and Tables
+      - Printers generate the highest profit among all sub-categories.
+      - Bookcases and Sarees follow, while Accessories and Tables
         contribute less to profits.
 8. Revenue Trends by Month:
-      o December has the highest revenue, indicating strong year-end sales.
-      o Low revenues in mid-year months (e.g., May and August) reflect
+      - December has the highest revenue, indicating strong year-end sales.
+      - Low revenues in mid-year months (e.g., May and August) reflect
         potential off-season dips.
 
 ## Final Conclusion

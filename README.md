@@ -32,7 +32,7 @@ Owner of Krishna Store wants us to help them create a dashboard to track and ana
 ![Screenshot (13)](https://github.com/user-attachments/assets/07c19e16-f9c1-4686-98c0-aff234dc343a)
 
 ## Project Insight
-Total Sales Performance:
+1. Total Sales Performance:
       o Total sales amount is 438K, with 6K items sold.
       o The total profit generated is 37K, with an average order value (AOV) of
         121K.
